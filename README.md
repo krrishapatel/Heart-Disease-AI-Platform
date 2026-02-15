@@ -86,13 +86,13 @@ The platform is trained on cardiac data from:
 - **Model Persistence**: Pickle, Joblib
 
 ### Key Features
-1. ** Ensemble Learning**: Multiple ML models with voting classifier
-2. ** SHAP/LIME Explainability**: Feature importance and local explanations
-3. ** Risk Stratification**: 5-level risk categorization (Very Low to Critical)
-4. ** Auto-optimization**: Automatic model selection and hyperparameter tuning
-5. ** Comprehensive Analytics**: Performance metrics and feature analysis
-6. ** Model Persistence**: Save and load trained models
-7. ** Demo Interface**: Interactive demonstration with sample patients
+1. Ensemble Learning: Multiple ML models with voting classifier
+2. SHAP/LIME Explainability: Feature importance and local explanations
+3. Risk Stratification: 5-level risk categorization (Very Low to Critical)
+4. Auto-optimization: Automatic model selection and hyperparameter tuning
+5. Comprehensive Analytics: Performance metrics and feature analysis
+6. Model Persistence: Save and load trained models
+7. Demo Interface: Interactive demonstration with sample patients
 
 ##  Getting Started
 
